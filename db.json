@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "name": "Jennifer Mayer II",
+      "id": 19
+    },
+    {
+      "name": "Erik Maggio",
+      "id": 20
+    },
+    {
+      "name": "Robyn Hauck Sr.",
+      "id": 21
+    },
+    {
+      "name": "Flora Fadel",
+      "id": 22
+    },
+    {
+      "name": "Tony Wolff",
+      "id": 23
+    },
+    {
+      "name": "Mrs. Thomas Wolf",
+      "id": 24
+    },
+    {
+      "name": "Karen Gerhold",
+      "id": 25
+    },
+    {
+      "name": "Miss Joseph Franecki",
+      "id": 26
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "title": "We out madafakas",
+      "user_id": 19
+    },
+    {
+      "id": 2,
+      "title": "We in madafakas",
+      "user_id": 19
+    },
+    {
+      "user_id": 20,
+      "title": "Unbranded Bronze Bike",
+      "id": 6
+    },
+    {
+      "user_id": 21,
+      "title": "Rustic Steel Table",
+      "id": 9
+    },
+    {
+      "user_id": 21,
+      "title": "Recycled Soft Chips",
+      "id": 10
+    },
+    {
+      "user_id": 20,
+      "title": "Recycled Rubber Bike",
+      "id": 11
+    },
+    {
+      "user_id": 19,
+      "title": "Modern Steel Table",
+      "id": 12
+    }
+  ],
+  "photos": [
+    {
+      "album_id": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=11211",
+      "id": 1
+    },
+    {
+      "album_id": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=55119",
+      "id": 2
+    },
+    {
+      "album_id": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=21799",
+      "id": 3
+    },
+    {
+      "album_id": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=62718",
+      "id": 4
+    }
+  ]
+}
